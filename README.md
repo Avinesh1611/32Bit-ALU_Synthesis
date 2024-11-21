@@ -1,4 +1,4 @@
-# 32Bit-ALU_Synthesis
+# EXP 5: 32 Bit ALU-Synthesize the Gate Level Netlist and tabulate Area and Power reports.
 
 ## Aim:
 
@@ -37,9 +37,17 @@ used.
 
 #### Synthesis RTL Schematic :
 
+![Screenshot (22)](https://github.com/user-attachments/assets/df25ee7c-ae17-412f-9198-f6c118823522)
+
+
 #### Area report:
+![Screenshot (25)](https://github.com/user-attachments/assets/92014451-35e1-4df5-af27-5c03b3f94ad9)
+
 
 #### Power Report:
+
+![Screenshot (26)](https://github.com/user-attachments/assets/484c8163-e79b-42c3-ace2-834485321de6)
+
 
 #### Result: 
 
